@@ -1,0 +1,6 @@
+U:\01開発\for disctop\Test.TCP Client\Test.TCP Client\bin\Debug\Test.TCP Client.exe.config
+U:\01開発\for disctop\Test.TCP Client\Test.TCP Client\bin\Debug\Test.TCP Client.exe
+U:\01開発\for disctop\Test.TCP Client\Test.TCP Client\bin\Debug\Test.TCP Client.pdb
+U:\01開発\for disctop\Test.TCP Client\Test.TCP Client\obj\Debug\Test.TCP Client.csprojResolveAssemblyReference.cache
+U:\01開発\for disctop\Test.TCP Client\Test.TCP Client\obj\Debug\Test.TCP Client.exe
+U:\01開発\for disctop\Test.TCP Client\Test.TCP Client\obj\Debug\Test.TCP Client.pdb
